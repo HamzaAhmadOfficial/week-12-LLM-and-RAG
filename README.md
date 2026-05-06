@@ -43,6 +43,14 @@ Generated Answer
 
 ---
 
+## Web Interface
+
+The system includes a web-based interface for uploading documents and performing context-aware question answering using the RAG pipeline.
+
+![RAG UI](screenshots/UI.PNG)
+
+---
+
 ## Project Structure
 
 ```
@@ -61,6 +69,9 @@ week-12-LLM-and-RAG/
 │
 ├── templates/
 │   └── index.html
+│
+├── screenshots/
+│   └── UI.PNG
 │
 └── requirements.txt
 ```
