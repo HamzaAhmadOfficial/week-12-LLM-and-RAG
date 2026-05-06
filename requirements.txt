@@ -1,0 +1,8 @@
+transformers
+torch
+sentence-transformers
+faiss-cpu
+scikit-learn
+langchain
+chromadb
+flask
